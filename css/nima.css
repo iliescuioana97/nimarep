@@ -1,0 +1,35 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 3, 2017, 9:58:43 AM
+    Author     : ioana
+*/
+
+.logo{
+    top: -15px;
+    position: relative;
+}
+
+.sf-menu {
+    margin-top:22px;
+}
+
+.left-block {
+    margin-top: 10px;
+}
+
+.grid_2 {
+    margin-left:55px;
+    margin-right:55px;
+}
+
+#gridOne {
+    margin-left: 75px;
+}
+
+.team-part2 {
+    margin-left: 100px;
+}
